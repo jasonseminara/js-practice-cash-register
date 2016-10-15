@@ -1,0 +1,26 @@
+{
+  "name": "cash-register",
+  "version": "1.0.0",
+  "description": "",
+  "main": "behavior.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jasonseminara/js-practice-cash-register.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jasonseminara/js-practice-cash-register/issues"
+  },
+  "homepage": "https://github.com/jasonseminara/js-practice-cash-register#readme",
+  "devDependencies": {
+    "eslint": "^3.8.0",
+    "eslint-config-airbnb": "^12.0.0",
+    "eslint-plugin-import": "^2.0.1",
+    "eslint-plugin-jsx-a11y": "^2.2.3",
+    "eslint-plugin-react": "^6.4.1"
+  }
+}
